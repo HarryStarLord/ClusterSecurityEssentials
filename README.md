@@ -1,1 +1,1 @@
-"# ClusterSecurityEssentials" 
+# ClusterSecurityEssentials
